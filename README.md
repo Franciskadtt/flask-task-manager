@@ -1,24 +1,15 @@
 # Code Institute - Task manager application
-![Design]()
+![Design](assets/images/mockup.png)
 
 This is a solution to the a challenge from the [Code Institute
-](https://codeinstitute.net/) Backemd Module to create a task manager application. 
+](https://codeinstitute.net/) Backend Module to create a task manager application. 
 
 ## Overview
 
-### The challenge
-
-- 
-
-### Screenshots
-
-- [Mobile]()
-- [Desktop]()
-
 ### Links
 
-- [Repo]()
-- [Live site]()
+- [Repo](https://github.com/Franciskadtt/flask-task-manager)
+- [Live site](https://smart-task-manager.herokuapp.com/)
 
 ## My process
 
