@@ -2,7 +2,7 @@
 ![Design]()
 
 This is a solution to the a challenge from the [Code Institute
-](https://codeinstitute.net/) Backemd Module to create a task manager apllication. 
+](https://codeinstitute.net/) Backemd Module to create a task manager application. 
 
 ## Overview
 
