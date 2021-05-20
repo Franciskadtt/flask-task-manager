@@ -42,13 +42,6 @@ well.
 - The user can manage the task categories list, but make it secure to only be available to an Admin user.
 - Be fully responsive by using their grid-based classes.
 
-## Coded By
-- Website - [Franciska Du Toit](https://franciskadutoit.com/)
-- Instagram - [@designed.byfranciska
-](https://www.instagram.com/designed.byfranciska/)
-- LinkedIn - [@franciskadutoit
-](https://www.linkedin.com/in/franciskadutoit/)
-
 ## Acknowledgements
 
 - All content and images were provided by [Code Institute](https://codeinstitute.net/)
